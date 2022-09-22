@@ -1,2 +1,2 @@
-# Projects
-Folder that contains projects that I will work on  in my free time
+# PROJECT 1
+This is project with name (1). It does this and that
