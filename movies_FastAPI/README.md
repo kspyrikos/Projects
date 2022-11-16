@@ -1,6 +1,6 @@
 ### Requirements:
 
-- Python (
+- Python
 - [Pipenv](https://pypi.org/project/pipenv/)
 
 ### Prepare
